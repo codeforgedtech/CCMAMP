@@ -1,6 +1,6 @@
 🎵 CCMAMP – CodeCraftsMan Amp
 
-![Logo](ccmamp_logo.png)
+![CCMAMP logo](assets/ccmamp_logo.png)
 
 **CCMAMP** (CodeCraftsMan Amp) är en modern och lättanvänd musikspelare byggd med **Python + Qt (PySide6)**.  
 Den kombinerar klassisk **Winamp-känsla** med ett modernt mörkt tema, stöd för spellistor och en snygg **equalizer som rör sig efter musiken**.
