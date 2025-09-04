@@ -27,7 +27,7 @@ Den kombinerar klassisk **Winamp-känsla** med ett modernt mörkt tema, stöd f�
 
 ## 🖼 Skärmbild
 
-*(Lägg gärna in en screenshot här)*
+![Spellista och equalizer](assets/screen.png)
 
 ---
 
